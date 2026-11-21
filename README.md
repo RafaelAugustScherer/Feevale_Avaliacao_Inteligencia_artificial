@@ -12,10 +12,12 @@ Ambiente Google Colab (solicitar acesso): https://colab.research.google.com/driv
 
 ## Ambiente de desenvolvimento
 
-Todos os dados foram aferidos do ambiente de desenvolvimento em nuvem do Google Colab.
+Todo o desenvolvimento foi feito dentro do ambiente do Google Colab.
 
 A máquina é descrita como "Python 3 Google Compute Engine backend", com as seguintes especificações disponíveis para consulta:
 
 CPU: Intel(R) Xeon(R) CPU @ 2.20GHz
+
 MEM: 12.7 GB
+
 DISK: 107.7 GB
